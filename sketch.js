@@ -11,7 +11,7 @@ function preload() {
     probabilityThreshold: 0.95
   };
   soundClassifier = ml5.soundClassifier('SpeechCommands18w', options);
-  uImg = loadImage('unicorn.png');
+  uImg = loadImage('Penguin.png');
   tImg = loadImage('ice.png');
   bImg = loadImage('background.jpg');
 
