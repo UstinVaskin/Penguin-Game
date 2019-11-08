@@ -22,7 +22,7 @@ It's my variant of Google’s Dinosaur Game (T-Rex run!) with an icy twist – c
 
 ### Brief:
 ![Image anchors 'Northern light'](https://i.imgur.com/QxJsQio.png)
-* Deploy your game online, using Github Pages, where the rest of the world can access it;
+* Deploy game online, using Github Pages, where the rest of the world can access it;
 * Design logic for winning & visually displayed;
 * Implement ML Speech Commands model;
 * Include separate HTML / CSS / JavaScript files;
